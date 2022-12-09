@@ -1,5 +1,5 @@
 click
-opencv-python-headless
+opencv-contrib-python
 streamlit
 PyYAML
 gunicorn
