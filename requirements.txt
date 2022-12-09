@@ -1,0 +1,9 @@
+click
+opencv-python-headless
+streamlit
+PyYAML
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
